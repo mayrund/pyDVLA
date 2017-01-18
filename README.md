@@ -1,2 +1,3 @@
 # pyDVLA
-DVLA MOT Python
+
+Simple Python script for pulling vehicle information from the UK DVLA website.
