@@ -1,7 +1,6 @@
 ###########################
 # DVLA Vehicle MOT Status #
 ##########################
-# Mayrun Digmi 2017
 
 # Please install BeautifulSoup4 and Requests packages
 from sys import argv
